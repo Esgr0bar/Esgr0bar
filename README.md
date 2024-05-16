@@ -1,6 +1,5 @@
 ## Current projects
 
-I'm working on :
 - [libMMU](https://github.com/Memoscopy/libMMU) : Rust crate that aims to simplify the process of rebuilding virtual address spaces from a memory dump in a OS-agnostic manner
 
 ## Statistics
