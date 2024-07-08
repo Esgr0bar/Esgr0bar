@@ -16,12 +16,11 @@
       <a href="https://github.com/search?q=user%3AEsgr0bar+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3AEsgr0bar+language%3ARust"><img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"></a>
   </p>
-
-  <h3>:floppy_disk: enthusiastic about</h3>
+## :floppy_disk: enthusiastic about
   
-   -- Incident response
-   -- Forensic
-   -- Development
+- Incident response :white_check_mark:
+- Forensic :white_check_mark:
+- Development :white_check_mark:
 
 
 ## Statistics
