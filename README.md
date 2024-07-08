@@ -17,6 +17,17 @@
       <a href="https://github.com/search?q=user%3AEsgr0bar+language%3ARust"><img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"></a>
   </p>
 
+  <h3>:floppy_disk: enthusiastic about</h3>
+
+  <p>
+      <img alt="DFIR" src=https://ih1.redbubble.net/image.1846677794.0412/st,small,507x507-pad,600x600,f8f8f8.jpg></a>
+      <a href="https://github.com/search?q=user%3AEsgr0bar+language%3Ac"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3AEsgr0bar+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3AEsgr0bar+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3AEsgr0bar+language%3ARust"><img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"></a>
+  </p>
+
+
 ## Statistics
 
 ![Github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Esgr0bar&theme=dracula&show_icons=true&line_height=33&hide_title=true&hide_border=true&count_private=true&include_all_commits=true&enable_animations=true") [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Esgr0bar&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
