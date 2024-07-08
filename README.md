@@ -19,9 +19,9 @@
 
   <h3>:floppy_disk: enthusiastic about</h3>
   
-    Incident response [x]
-    Forensic [x]
-    Development [x]
+   -- Incident response
+   -- Forensic
+   -- Development
 
 
 ## Statistics
