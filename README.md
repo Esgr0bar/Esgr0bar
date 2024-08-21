@@ -1,3 +1,7 @@
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=5BCDEC&center=true&vCenter=true&width=440&lines=Code+is+life!;Let's+debug+and+conquer!;Welcome+to+my+GitHub!)
+
+---
+
 ## 🌟 Current Projects
 
 - [libMMU](https://github.com/Memoscopy/libMMU)  
@@ -38,8 +42,5 @@
   <br>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Top Langs" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Esgr0bar&theme=dracula&layout=compact" /></a>
 </p>
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=5BCDEC&center=true&vCenter=true&width=440&lines=Code+is+life!;Let's+debug+and+conquer!;Welcome+to+my+GitHub!)
-
 
 ---
