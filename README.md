@@ -1,4 +1,4 @@
-p align="center">
+<p align="center">
 <a ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=700&color=00FF00&background=000000&center=true&vCenter=true&width=440&lines=%F0%9F%8F%B4%F3%A0%81%A7%F3%A0%81%A2%F3%A0%81%A5%F3%A0%81%AE%F3%A0%81%A7%F3%A0%81%B4%F3%A0%81%A2+Ad_Astra_Per_Root+%F0%9F%8F%B4%F3%A0%81%A7%F3%A0%81%A2%F3%A0%81%A5%F3%A0%81%AE%F3%A0%81%A7%F3%A0%81%B4%F3%A0%81%A2) </a>
 </p>
 
