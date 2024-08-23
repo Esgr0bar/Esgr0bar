@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=5BCDEC&center=true&vCenter=true&width=440&lines=Ad Astra Per Root;)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=5BCDEC&center=true&vCenter=true&width=440&lines="Ad Astra Per Root";)
 
 ---
 
