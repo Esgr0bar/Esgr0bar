@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=700&color=5BCDEC&center=true&vCenter=true&width=440&lines=Ad_Astra_Per_Root)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=700&color=5BCDEC&center=true&vCenter=true&width=440&lines=Ad_Astra_Per_Root)
 
 ---
 
