@@ -5,9 +5,10 @@
 
 ## 🌟 Current Projects
 
-- [libMMU](https://github.com/Memoscopy/libMMU)  
+- [blackpill](https://github.com/DualHorizon/blackpill)  
   **Rust crate** designed to simplify the process of rebuilding virtual address spaces from a memory dump in an OS-agnostic manner.  
   ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+  ![C](https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white)
   
 
 - [chainsaw-gui](https://github.com/Esgr0bar/chainsaw-gui)  
