@@ -5,12 +5,6 @@
 
 ## 🌟 Current Projects
 
-- [blackpill](https://github.com/DualHorizon/blackpill)  
-  A Linux kernel rootkit in Rust using a custom made type-2 hypervisor and eBPF XDP program  
-  ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-  ![C](https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white)
-  
-
 
 ---
 
